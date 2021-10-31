@@ -1,0 +1,104 @@
+body {
+    background: lightgrey;
+    }
+    
+    // vh means 100 percent size of screen
+
+
+header:hover {
+    background-color: yellow;
+    box-shadow: 5px 10px green;
+    display:
+
+}
+
+ul {
+    background-color: black;
+    
+}
+
+li a {
+    color: #f2f2f2;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color:black;
+}
+
+li a:hover {
+    background-color: grey;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: center;
+    list-style: none;
+    margin: 30px;
+    flex: wrap;
+}
+
+li:hover {
+    color: white;
+}
+
+
+.card {
+   display: flex;
+   justify-content: center;
+}
+
+.cardTitle {
+    border: 0px
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.box {
+    flex: wrap;
+    
+}
+
+.box {
+    border-radius: 10px;
+    border: black;
+    border: 10px;
+}
+
+.box {
+    border-style: double;
+    margin: 50px;
+} 
+
+#About_Me{
+
+
+}
+
+.box:hover {
+    background-color: grey;
+}
+
+ .page {
+    display: grid;
+}
+ .right {
+     display: grid;
+     float: right    
+ }
+  .main {
+      display: grid;
+      text-align: center;
+  }
