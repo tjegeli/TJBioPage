@@ -39,7 +39,7 @@ li {
 }
 
 li:hover {
-    color: white;
+    color: grey;
 }
 
 
@@ -80,11 +80,12 @@ p {
 .box {
     border-style: double;
     margin: 50px;
+    
 } 
 
-#About_Me{
-
-
+.box img {
+   width: 100%;
+    
 }
 
 .box:hover {
